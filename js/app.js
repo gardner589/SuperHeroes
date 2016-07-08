@@ -2,7 +2,7 @@
 var superheroList = [
   {
     name: "Spiderman",
-    number: "800-WEB-CRWL",
+    number: "800-WEB-HEAD",
     group: "Marvel",
     img: "img/spiderman.png"
   },
@@ -37,10 +37,10 @@ var superheroList = [
     img: "img/black_panther.gif"
   },
   {
-    name: "Princess Peach",
-    number: "800-NO-DAMSL",
-    group: "Independent",
-    img: "img/princess_peach.jpg"
+    name: "Silver Surfer",
+    number: "800-S-SURFER",
+    group: "Marvel",
+    img: "http://static.comicvine.com/uploads/original/11124/111241744/4817324-2114033572-silve.png"
   },
   {
     name: "Batman",
@@ -50,7 +50,7 @@ var superheroList = [
   },
   {
     name: "Supergirl",
-    number: "800-KYR-PTON",
+    number: "800-KRY-PTON",
     group: "DC",
     img: "img/supergirl.jpg"
   }
